@@ -1,8 +1,32 @@
-# React + Vite
+**React + Vite Todo Application Readme**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Overview**
+This repository contains a Todo Application created using React and Vite. The application comes with several features to enhance the user experience and productivity.
 
-Currently, two official plugins are available:
+__**Features**__
+1. _Custom Todo List Name:_ The application allows you to set a custom name for your Todo list, providing a personalized touch to your tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. _Local Storage:_ Your data is stored locally using browser local storage, ensuring persistence even if you close or refresh the page.
+
+3. _Editable Tasks:_ You can edit tasks even after adding them to the list, providing flexibility and ease of use.
+
+4. _Erase All Completed Tasks:_ A dedicated button is provided to erase all completed tasks, helping you maintain a clean and organized list.
+
+5. _Visual Indicators for Completed Tasks:_ Completed tasks are visually indicated with a strike-through and a green color UI, making it easy to identify completed items.
+
+6. _Search Bar: _The application includes a search bar, allowing you to quickly find tasks within the list.
+
+**Deployment**
+The application is deployed and accessible online. You can try it out here : https://hiteshtodolist.netlify.app
+
+**How to Use**
+To run the application locally or contribute to the code, follow these steps:
+
+1.Clone the repository: git clone [repository-url]
+2.Install dependencies: npm install
+3.Start the development server: npm run dev
+
+**Issues and Feedback**
+If you encounter any issues or have feedback, please feel free to open an issue on the GitHub repository.
+
+**Happy Tasking!**
