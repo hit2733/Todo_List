@@ -1,9 +1,9 @@
 **React + Vite Todo Application Readme**
 
-**Overview**
+**Overview**:
 This repository contains a Todo Application created using React and Vite. The application comes with several features to enhance the user experience and productivity.
 
-__**Features**__
+**Features**:
 1. _Custom Todo List Name:_ The application allows you to set a custom name for your Todo list, providing a personalized touch to your tasks.
 
 2. _Local Storage:_ Your data is stored locally using browser local storage, ensuring persistence even if you close or refresh the page.
@@ -16,10 +16,10 @@ __**Features**__
 
 6. _Search Bar: _The application includes a search bar, allowing you to quickly find tasks within the list.
 
-**Deployment**
+**Deployment**:
 The application is deployed and accessible online. You can try it out here : https://hiteshtodolist.netlify.app
 
-**Issues and Feedback**
+**Issues and Feedback**:
 If you encounter any issues or have feedback, please feel free to open an issue on the GitHub repository.
 
 **Happy Tasking!**
