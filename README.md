@@ -14,7 +14,7 @@ This repository contains a Todo Application created using React and Vite. The ap
 
 5. _Visual Indicators for Completed Tasks:_ Completed tasks are visually indicated with a strike-through and a green color UI, making it easy to identify completed items.
 
-6. _Search Bar: _The application includes a search bar, allowing you to quickly find tasks within the list.
+6. _Search Bar:_ The application includes a search bar, allowing you to quickly find tasks within the list.
 
 **Deployment**:
 The application is deployed and accessible online. You can try it out here : https://hiteshtodolist.netlify.app
