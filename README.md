@@ -19,13 +19,6 @@ __**Features**__
 **Deployment**
 The application is deployed and accessible online. You can try it out here : https://hiteshtodolist.netlify.app
 
-**How to Use**
-To run the application locally or contribute to the code, follow these steps:
-
-1.Clone the repository: git clone [repository-url]
-2.Install dependencies: npm install
-3.Start the development server: npm run dev
-
 **Issues and Feedback**
 If you encounter any issues or have feedback, please feel free to open an issue on the GitHub repository.
 
