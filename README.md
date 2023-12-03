@@ -1,6 +1,6 @@
 **React + Vite Todo Application Readme**
 
-**Overview**:
+**Overview**:<br>
 This repository contains a Todo Application created using React and Vite. The application comes with several features to enhance the user experience and productivity.
 
 **Features**:
@@ -16,10 +16,10 @@ This repository contains a Todo Application created using React and Vite. The ap
 
 6. _Search Bar:_ The application includes a search bar, allowing you to quickly find tasks within the list.
 
-**Deployment**:
+**Deployment**:<br>
 The application is deployed and accessible online. You can try it out here : https://hiteshtodolist.netlify.app
 
-**Issues and Feedback**:
+**Issues and Feedback**:<br>
 If you encounter any issues or have feedback, please feel free to open an issue on the GitHub repository.
 
 **Happy Tasking!**
